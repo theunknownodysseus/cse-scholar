@@ -1,0 +1,1063 @@
+{
+  "total_citations": 10374,
+  "faculty": [
+    {
+      "name": "Dr.S.Malliga",
+      "citations": 2484,
+      "h_index": 27,
+      "i10_index": 53,
+      "profile_link": "https://scholar.google.com/citations?user=NSRyKhIAAAAJ",
+      "articles": [
+        {
+          "title": "Forest fire and smoke detection using deep learning-based learning without forgetting",
+          "link": "https://scholar.google.com/scholar?q=Forest+fire+and+smoke+detection+using+deep+learning-based+learning+without+forgetting"
+        },
+        {
+          "title": "On fine-tuning deep learning models using transfer learning and hyper-parameters optimization for disease identification in maize leaves",
+          "link": "https://scholar.google.com/scholar?q=On+fine-tuning+deep+learning+models+using+transfer+learning+and+hyper-parameters+optimization+for+disease+identification+in+maize+leaves"
+        },
+        {
+          "title": "A survey on hate speech detection and sentiment analysis using machine learning and deep learning models",
+          "link": "https://scholar.google.com/scholar?q=A+survey+on+hate+speech+detection+and+sentiment+analysis+using+machine+learning+and+deep+learning+models"
+        },
+        {
+          "title": "Deep learning based sentiment analysis and offensive language identification on multilingual code-mixed data",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning+based+sentiment+analysis+and+offensive+language+identification+on+multilingual+code-mixed+data"
+        },
+        {
+          "title": "Offensive language detection in Tamil YouTube comments by adapters and cross-domain knowledge transfer",
+          "link": "https://scholar.google.com/scholar?q=Offensive+language+detection+in+Tamil+YouTube+comments+by+adapters+and+cross-domain+knowledge+transfer"
+        }
+      ]
+    },
+    {
+      "name": "Dr.N.Shanthi",
+      "citations": 1302,
+      "h_index": 17,
+      "i10_index": 34,
+      "profile_link": "https://scholar.google.com/citations?user=rbCpLuwAAAAJ",
+      "articles": [
+        {
+          "title": "A novel SVM-based handwritten Tamil character recognition system",
+          "link": "https://scholar.google.com/scholar?q=A+novel+SVM-based+handwritten+Tamil+character+recognition+system"
+        },
+        {
+          "title": "A survey on image segmentation through clustering",
+          "link": "https://scholar.google.com/scholar?q=A+survey+on+image+segmentation+through+clustering"
+        },
+        {
+          "title": "Gaussian and gabor filter approach for object segmentation",
+          "link": "https://scholar.google.com/scholar?q=Gaussian+and+gabor+filter+approach+for+object+segmentation"
+        },
+        {
+          "title": "Support Vector Machine based diagnostic system for thyroid cancer using statistical texture features",
+          "link": "https://scholar.google.com/scholar?q=Support+Vector+Machine+based+diagnostic+system+for+thyroid+cancer+using+statistical+texture+features"
+        },
+        {
+          "title": "Computer-aided diagnosis system for classifying benign and malignant thyroid nodules in multi-stained FNAB cytological images",
+          "link": "https://scholar.google.com/scholar?q=Computer-aided+diagnosis+system+for+classifying+benign+and+malignant+thyroid+nodules+in+multi-stained+FNAB+cytological+images"
+        }
+      ]
+    },
+    {
+      "name": "Dr.C.S.Kanimozhi Selvi",
+      "citations": 757,
+      "h_index": 13,
+      "i10_index": 22,
+      "profile_link": "https://scholar.google.com/citations?user=V2ZozSoAAAAJ",
+      "articles": [
+        {
+          "title": "Extracting aspects and mining opinions in product reviews using supervised learning algorithm",
+          "link": "https://scholar.google.com/scholar?q=Extracting+aspects+and+mining+opinions+in+product+reviews+using+supervised+learning+algorithm"
+        },
+        {
+          "title": "Novel tri-band series fed microstrip antenna array for THz MIMO communications",
+          "link": "https://scholar.google.com/scholar?q=Novel+tri-band+series+fed+microstrip+antenna+array+for+THz+MIMO+communications"
+        },
+        {
+          "title": "Predictive assessment of autism using unsupervised machine learning models",
+          "link": "https://scholar.google.com/scholar?q=Predictive+assessment+of+autism+using+unsupervised+machine+learning+models"
+        },
+        {
+          "title": "Multinomial logistic regression method for early detection of autism spectrum disorders",
+          "link": "https://scholar.google.com/scholar?q=Multinomial+logistic+regression+method+for+early+detection+of+autism+spectrum+disorders"
+        },
+        {
+          "title": "Mining rare itemset with automated support thresholds",
+          "link": "https://scholar.google.com/scholar?q=Mining+rare+itemset+with+automated+support+thresholds"
+        }
+      ]
+    },
+    {
+      "name": "Dr.S.Shanthi",
+      "citations": 717,
+      "h_index": 16,
+      "i10_index": 20,
+      "profile_link": "https://scholar.google.com/citations?user=EidDiWMAAAAJ",
+      "articles": [
+        {
+          "title": "A deep transfer learning-based convolution neural network model for COVID-19 detection using computed tomography scan images for medical applications",
+          "link": "https://scholar.google.com/scholar?q=A+deep+transfer+learning-based+convolution+neural+network+model+for+COVID-19+detection+using+computed+tomography+scan+images+for+medical+applications"
+        },
+        {
+          "title": "Data clustering using K-Means based on Crow Search Algorithm",
+          "link": "https://scholar.google.com/scholar?q=Data+clustering+using+K-Means+based+on+Crow+Search+Algorithm"
+        },
+        {
+          "title": "Artificial intelligence applications in different imaging modalities for corneal topography",
+          "link": "https://scholar.google.com/scholar?q=Artificial+intelligence+applications+in+different+imaging+modalities+for+corneal+topography"
+        },
+        {
+          "title": "Modified Artificial Bee Colony Based Feature Selection: A New Method in the Application of Mammogram Image Classification",
+          "link": "https://scholar.google.com/scholar?q=Modified+Artificial+Bee+Colony+Based+Feature+Selection%3A+A+New+Method+in+the+Application+of+Mammogram+Image+Classification"
+        },
+        {
+          "title": "[Retracted] An Artificial Intelligence‐Based Bio‐Medical Stroke Prediction and Analytical System Using a Machine Learning Approach",
+          "link": "https://scholar.google.com/scholar?q=%5BRetracted%5D+An+Artificial+Intelligence%E2%80%90Based+Bio%E2%80%90Medical+Stroke+Prediction+and+Analytical+System+Using+a+Machine+Learning+Approach"
+        }
+      ]
+    },
+    {
+      "name": "Dr.R.Thamilselvan",
+      "citations": 568,
+      "h_index": 13,
+      "i10_index": 16,
+      "profile_link": "https://scholar.google.com/citations?user=pz-C9fkAAAAJ",
+      "articles": [
+        {
+          "title": "Review on crop prediction using deep learning techniques",
+          "link": "https://scholar.google.com/scholar?q=Review+on+crop+prediction+using+deep+learning+techniques"
+        },
+        {
+          "title": "A genetic algorithm with a Tabu search (GTA) for traveling salesman problem",
+          "link": "https://scholar.google.com/scholar?q=A+genetic+algorithm+with+a+Tabu+search+%28GTA%29+for+traveling+salesman+problem"
+        },
+        {
+          "title": "Prediction of COVID-19 growth and trend using machine learning approach",
+          "link": "https://scholar.google.com/scholar?q=Prediction+of+COVID-19+growth+and+trend+using+machine+learning+approach"
+        },
+        {
+          "title": "An intelligent traffic prediction framework for 5G network using SDN and fusion learning",
+          "link": "https://scholar.google.com/scholar?q=An+intelligent+traffic+prediction+framework+for+5G+network+using+SDN+and+fusion+learning"
+        },
+        {
+          "title": "Integrating genetic algorithm, tabu search approach for job shop scheduling",
+          "link": "https://scholar.google.com/scholar?q=Integrating+genetic+algorithm%2C+tabu+search+approach+for+job+shop+scheduling"
+        }
+      ]
+    },
+    {
+      "name": "Dr.M.Geetha",
+      "citations": 499,
+      "h_index": 12,
+      "i10_index": 14,
+      "profile_link": "https://scholar.google.com/citations?user=IKqaT38AAAAJ",
+      "articles": [
+        {
+          "title": "Design of face detection and recognition system to monitor students during online examinations using Machine Learning algorithms",
+          "link": "https://scholar.google.com/scholar?q=Design+of+face+detection+and+recognition+system+to+monitor+students+during+online+examinations+using+Machine+Learning+algorithms"
+        },
+        {
+          "title": "Multiclass classification of Alzheimer's disease using hybrid deep convolutional neural network.",
+          "link": "https://scholar.google.com/scholar?q=Multiclass+classification+of+Alzheimer%27s+disease+using+hybrid+deep+convolutional+neural+network."
+        },
+        {
+          "title": "Deep learning-based transfer learning model in diagnosis of diseases with brain magnetic resonance imaging",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning-based+transfer+learning+model+in+diagnosis+of+diseases+with+brain+magnetic+resonance+imaging"
+        },
+        {
+          "title": "Diagnosis of Alzheimer's disease from brain magnetic resonance imaging images using deep learning algorithms",
+          "link": "https://scholar.google.com/scholar?q=Diagnosis+of+Alzheimer%27s+disease+from+brain+magnetic+resonance+imaging+images+using+deep+learning+algorithms"
+        },
+        {
+          "title": "Stock movement prediction using KNN machine learning algorithm",
+          "link": "https://scholar.google.com/scholar?q=Stock+movement+prediction+using+KNN+machine+learning+algorithm"
+        }
+      ]
+    },
+    {
+      "name": "Dr.P.S.Nandhini",
+      "citations": 423,
+      "h_index": 10,
+      "i10_index": 10,
+      "profile_link": "https://scholar.google.com/citations?user=xSgiExMAAAAJ",
+      "articles": [
+        {
+          "title": "On fine-tuning deep learning models using transfer learning and hyper-parameters optimization for disease identification in maize leaves",
+          "link": "https://scholar.google.com/scholar?q=On+fine-tuning+deep+learning+models+using+transfer+learning+and+hyper-parameters+optimization+for+disease+identification+in+maize+leaves"
+        },
+        {
+          "title": "Effectiveness of decentralized federated learning algorithms in healthcare: a case study on cancer classification",
+          "link": "https://scholar.google.com/scholar?q=Effectiveness+of+decentralized+federated+learning+algorithms+in+healthcare%3A+a+case+study+on+cancer+classification"
+        },
+        {
+          "title": "Enhanced Rank Attack Detection Algorithm (E-RAD) for securing RPL-based IoT networks by early detection and isolation of rank attackers",
+          "link": "https://scholar.google.com/scholar?q=Enhanced+Rank+Attack+Detection+Algorithm+%28E-RAD%29+for+securing+RPL-based+IoT+networks+by+early+detection+and+isolation+of+rank+attackers"
+        },
+        {
+          "title": "A comprehensive review of deep learning techniques for the detection of (distributed) denial of service attacks",
+          "link": "https://scholar.google.com/scholar?q=A+comprehensive+review+of+deep+learning+techniques+for+the+detection+of+%28distributed%29+denial+of+service+attacks"
+        },
+        {
+          "title": "A comprehensive review of applications of Internet of Things for COVID-19 pandemic",
+          "link": "https://scholar.google.com/scholar?q=A+comprehensive+review+of+applications+of+Internet+of+Things+for+COVID-19+pandemic"
+        }
+      ]
+    },
+    {
+      "name": "Dr.E.Gothai",
+      "citations": 417,
+      "h_index": 11,
+      "i10_index": 12,
+      "profile_link": "https://scholar.google.com/citations?user=aT5IYYYAAAAJ",
+      "articles": [
+        {
+          "title": "Binary grey wolf optimizer with mutation and adaptive k-nearest neighbour for feature selection in Parkinson’s disease diagnosis",
+          "link": "https://scholar.google.com/scholar?q=Binary+grey+wolf+optimizer+with+mutation+and+adaptive+k-nearest+neighbour+for+feature+selection+in+Parkinson%E2%80%99s+disease+diagnosis"
+        },
+        {
+          "title": "Prediction of COVID-19 growth and trend using machine learning approach",
+          "link": "https://scholar.google.com/scholar?q=Prediction+of+COVID-19+growth+and+trend+using+machine+learning+approach"
+        },
+        {
+          "title": "Weed Identification using Convolutional Neural Network and Convolutional Neural Network Architectures",
+          "link": "https://scholar.google.com/scholar?q=Weed+Identification+using+Convolutional+Neural+Network+and+Convolutional+Neural+Network+Architectures"
+        },
+        {
+          "title": "Map-reduce based distance weighted k-nearest neighbor machine learning algorithm for big data applications",
+          "link": "https://scholar.google.com/scholar?q=Map-reduce+based+distance+weighted+k-nearest+neighbor+machine+learning+algorithm+for+big+data+applications"
+        },
+        {
+          "title": "Design features of grocery product recognition using deep learning",
+          "link": "https://scholar.google.com/scholar?q=Design+features+of+grocery+product+recognition+using+deep+learning"
+        }
+      ]
+    },
+    {
+      "name": "Dr.K.Sangeetha",
+      "citations": 407,
+      "h_index": 10,
+      "i10_index": 10,
+      "profile_link": "https://scholar.google.com/citations?user=Mz3GppgAAAAJ",
+      "articles": [
+        {
+          "title": "RETRACTED ARTICLE: Skin lesion classification using decision trees and random forest algorithms",
+          "link": "https://scholar.google.com/scholar?q=RETRACTED+ARTICLE%3A+Skin+lesion+classification+using+decision+trees+and+random+forest+algorithms"
+        },
+        {
+          "title": "Improved K‑Means Based Q Learning Algorithm for Optimal Clustering and Node Balancing in WSN",
+          "link": "https://scholar.google.com/scholar?q=Improved+K%E2%80%91Means+Based+Q+Learning+Algorithm+for+Optimal+Clustering+and+Node+Balancing+in+WSN"
+        },
+        {
+          "title": "Apple leaf disease detection using deep learning",
+          "link": "https://scholar.google.com/scholar?q=Apple+leaf+disease+detection+using+deep+learning"
+        },
+        {
+          "title": "RETRACTED ARTICLE: Improving secured ID-based authentication for cloud computing through novel hybrid fuzzy-based homomorphic proxy re-encryption: V. Vijaya Kumar et al.",
+          "link": "https://scholar.google.com/scholar?q=RETRACTED+ARTICLE%3A+Improving+secured+ID-based+authentication+for+cloud+computing+through+novel+hybrid+fuzzy-based+homomorphic+proxy+re-encryption%3A+V.+Vijaya+Kumar+et+al."
+        },
+        {
+          "title": "HOEEACR: hybrid optimized energy-efficient adaptive clustered routing for WSN",
+          "link": "https://scholar.google.com/scholar?q=HOEEACR%3A+hybrid+optimized+energy-efficient+adaptive+clustered+routing+for+WSN"
+        }
+      ]
+    },
+    {
+      "name": "Ms.S.C.Sagana",
+      "citations": 395,
+      "h_index": 8,
+      "i10_index": 7,
+      "profile_link": "https://scholar.google.com/citations?user=Cpl8RqQAAAAJ",
+      "articles": [
+        {
+          "title": "An efficient LoRa-based smart agriculture management and monitoring system using wireless sensor networks",
+          "link": "https://scholar.google.com/scholar?q=An+efficient+LoRa-based+smart+agriculture+management+and+monitoring+system+using+wireless+sensor+networks"
+        },
+        {
+          "title": "Retina biometrics for personal authentication",
+          "link": "https://scholar.google.com/scholar?q=Retina+biometrics+for+personal+authentication"
+        },
+        {
+          "title": "Object recognition system for visually impaired people",
+          "link": "https://scholar.google.com/scholar?q=Object+recognition+system+for+visually+impaired+people"
+        },
+        {
+          "title": "Detection of diabetic retinopathy using optimized back-propagation neural network (Op-BPN) algorithm",
+          "link": "https://scholar.google.com/scholar?q=Detection+of+diabetic+retinopathy+using+optimized+back-propagation+neural+network+%28Op-BPN%29+algorithm"
+        },
+        {
+          "title": "Performance enhancement in live migration for cloud computing environments",
+          "link": "https://scholar.google.com/scholar?q=Performance+enhancement+in+live+migration+for+cloud+computing+environments"
+        }
+      ]
+    },
+    {
+      "name": "Ms.P.Santhiya",
+      "citations": 317,
+      "h_index": 9,
+      "i10_index": 9,
+      "profile_link": "https://scholar.google.com/citations?user=WXrSKA0AAAAJ",
+      "articles": [
+        {
+          "title": "A novel intelligent transport system charging scheduling for electric vehicles using Grey Wolf Optimizer and Sail Fish Optimization algorithms",
+          "link": "https://scholar.google.com/scholar?q=A+novel+intelligent+transport+system+charging+scheduling+for+electric+vehicles+using+Grey+Wolf+Optimizer+and+Sail+Fish+Optimization+algorithms"
+        },
+        {
+          "title": "An extensive review on energy management system for microgrids",
+          "link": "https://scholar.google.com/scholar?q=An+extensive+review+on+energy+management+system+for+microgrids"
+        },
+        {
+          "title": "Classification of glaucoma based on elephant-herding optimization algorithm and deep belief network",
+          "link": "https://scholar.google.com/scholar?q=Classification+of+glaucoma+based+on+elephant-herding+optimization+algorithm+and+deep+belief+network"
+        },
+        {
+          "title": "A study of solar heat gain variation in building applied photovoltaic buildings and its impact on environment and indoor air quality",
+          "link": "https://scholar.google.com/scholar?q=A+study+of+solar+heat+gain+variation+in+building+applied+photovoltaic+buildings+and+its+impact+on+environment+and+indoor+air+quality"
+        },
+        {
+          "title": "Overview of the shared task on fake news detection in dravidian languages-DravidianLangTech@ NAACL 2025",
+          "link": "https://scholar.google.com/scholar?q=Overview+of+the+shared+task+on+fake+news+detection+in+dravidian+languages-DravidianLangTech%40+NAACL+2025"
+        }
+      ]
+    },
+    {
+      "name": "Dr.PCD.Kalaivani",
+      "citations": 295,
+      "h_index": 7,
+      "i10_index": 6,
+      "profile_link": "https://scholar.google.com/citations?user=gY6q1zcAAAAJ",
+      "articles": [
+        {
+          "title": "Review on crop prediction using deep learning techniques",
+          "link": "https://scholar.google.com/scholar?q=Review+on+crop+prediction+using+deep+learning+techniques"
+        },
+        {
+          "title": "Deep learning-based early parkinson’s disease detection from brain mri image",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning-based+early+parkinson%E2%80%99s+disease+detection+from+brain+mri+image"
+        },
+        {
+          "title": "Clothing image recognition based on multiple features using deep neural networks",
+          "link": "https://scholar.google.com/scholar?q=Clothing+image+recognition+based+on+multiple+features+using+deep+neural+networks"
+        },
+        {
+          "title": "Enhancing the Classification Accuracy in Sentiment Analysis with Computational Intelligence Using Joint Sentiment Topic Detection with MEDLDA",
+          "link": "https://scholar.google.com/scholar?q=Enhancing+the+Classification+Accuracy+in+Sentiment+Analysis+with+Computational+Intelligence+Using+Joint+Sentiment+Topic+Detection+with+MEDLDA"
+        },
+        {
+          "title": "An enhanced data mining model for text classification",
+          "link": "https://scholar.google.com/scholar?q=An+enhanced+data+mining+model+for+text+classification"
+        }
+      ]
+    },
+    {
+      "name": "Dr.K.Dinesh",
+      "citations": 282,
+      "h_index": 9,
+      "i10_index": 8,
+      "profile_link": "https://scholar.google.com/citations?user=wTaXtzcAAAAJ",
+      "articles": [
+        {
+          "title": "Job scheduling using fuzzy neural network algorithm in cloud environment",
+          "link": "https://scholar.google.com/scholar?q=Job+scheduling+using+fuzzy+neural+network+algorithm+in+cloud+environment"
+        },
+        {
+          "title": "Efficient resources allocation for different jobs in cloud",
+          "link": "https://scholar.google.com/scholar?q=Efficient+resources+allocation+for+different+jobs+in+cloud"
+        },
+        {
+          "title": "A novel approach for dynamic load balancing with effective bin packing and vm reconfiguration in cloud",
+          "link": "https://scholar.google.com/scholar?q=A+novel+approach+for+dynamic+load+balancing+with+effective+bin+packing+and+vm+reconfiguration+in+cloud"
+        },
+        {
+          "title": "Deadline Constrained Adaptive Multilevel Scheduling System in Cloud Environment.",
+          "link": "https://scholar.google.com/scholar?q=Deadline+Constrained+Adaptive+Multilevel+Scheduling+System+in+Cloud+Environment."
+        },
+        {
+          "title": "Deep learning and optimization enabled multi-objective for task scheduling in cloud computing",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning+and+optimization+enabled+multi-objective+for+task+scheduling+in+cloud+computing"
+        }
+      ]
+    },
+    {
+      "name": "Ms.S.Mohana Saranya",
+      "citations": 242,
+      "h_index": 8,
+      "i10_index": 6,
+      "profile_link": "https://scholar.google.com/citations?user=ZhStAqYAAAAJ",
+      "articles": [
+        {
+          "title": "Deep Learning Techniques in Tomato Plant–A Review",
+          "link": "https://scholar.google.com/scholar?q=Deep+Learning+Techniques+in+Tomato+Plant%E2%80%93A+Review"
+        },
+        {
+          "title": "Interactive mobile live video learning system in cloud environment",
+          "link": "https://scholar.google.com/scholar?q=Interactive+mobile+live+video+learning+system+in+cloud+environment"
+        },
+        {
+          "title": "An Enhanced Approach for Crop Yield Prediction System Using Linear Support Vector Machine Model",
+          "link": "https://scholar.google.com/scholar?q=An+Enhanced+Approach+for+Crop+Yield+Prediction+System+Using+Linear+Support+Vector+Machine+Model"
+        },
+        {
+          "title": "Image detection and segmentation using YOLO v5 for surveillance",
+          "link": "https://scholar.google.com/scholar?q=Image+detection+and+segmentation+using+YOLO+v5+for+surveillance"
+        },
+        {
+          "title": "Instance segmentation for autonomous vehicle",
+          "link": "https://scholar.google.com/scholar?q=Instance+segmentation+for+autonomous+vehicle"
+        }
+      ]
+    },
+    {
+      "name": "Mr.K.Devendran",
+      "citations": 239,
+      "h_index": 8,
+      "i10_index": 6,
+      "profile_link": "https://scholar.google.com/citations?user=fXnNXqUAAAAJ",
+      "articles": [
+        {
+          "title": "Tool wear prediction in hard turning of EN8 steel using cutting force and surface roughness with artificial neural network",
+          "link": "https://scholar.google.com/scholar?q=Tool+wear+prediction+in+hard+turning+of+EN8+steel+using+cutting+force+and+surface+roughness+with+artificial+neural+network"
+        },
+        {
+          "title": "Optimized task scheduling approach with fault tolerant load balancing using multi-objective cat swarm optimization for multi-cloud environment",
+          "link": "https://scholar.google.com/scholar?q=Optimized+task+scheduling+approach+with+fault+tolerant+load+balancing+using+multi-objective+cat+swarm+optimization+for+multi-cloud+environment"
+        },
+        {
+          "title": "Retina biometrics for personal authentication",
+          "link": "https://scholar.google.com/scholar?q=Retina+biometrics+for+personal+authentication"
+        },
+        {
+          "title": "Detection of diabetic retinopathy using optimized back-propagation neural network (Op-BPN) algorithm",
+          "link": "https://scholar.google.com/scholar?q=Detection+of+diabetic+retinopathy+using+optimized+back-propagation+neural+network+%28Op-BPN%29+algorithm"
+        },
+        {
+          "title": "Effective prediction on music therapy using hybrid SVM-ANN approach",
+          "link": "https://scholar.google.com/scholar?q=Effective+prediction+on+music+therapy+using+hybrid+SVM-ANN+approach"
+        }
+      ]
+    },
+    {
+      "name": "Mr.K.Sudhakar",
+      "citations": 149,
+      "h_index": 7,
+      "i10_index": 3,
+      "profile_link": "https://scholar.google.com/citations?user=csUNQXMAAAAJ",
+      "articles": [
+        {
+          "title": "A Facile Synthesis of MgFe2O4/ZnS Heterojunction with Effectively Enhanced Visible Light Photocatalytic Activity for Degradation of Methylene Blue and Crystal …",
+          "link": "https://scholar.google.com/scholar?q=A+Facile+Synthesis+of+MgFe2O4%2FZnS+Heterojunction+with+Effectively+Enhanced+Visible+Light+Photocatalytic+Activity+for+Degradation+of+Methylene+Blue+and+Crystal+%E2%80%A6"
+        },
+        {
+          "title": "Enhancing pancreatic cancer classification through dynamic weighted ensemble: a game theory approach",
+          "link": "https://scholar.google.com/scholar?q=Enhancing+pancreatic+cancer+classification+through+dynamic+weighted+ensemble%3A+a+game+theory+approach"
+        },
+        {
+          "title": "Design and implementation of adaptive clock gating technique with double edge triggered flip flops",
+          "link": "https://scholar.google.com/scholar?q=Design+and+implementation+of+adaptive+clock+gating+technique+with+double+edge+triggered+flip+flops"
+        },
+        {
+          "title": "Printed Circuit Board Design Of Compact CAN To  Ethernet Converter",
+          "link": "https://scholar.google.com/scholar?q=Printed+Circuit+Board+Design+Of+Compact+CAN+To++Ethernet+Converter"
+        },
+        {
+          "title": "Design and implementation of encoding techniques for wireless applications",
+          "link": "https://scholar.google.com/scholar?q=Design+and+implementation+of+encoding+techniques+for+wireless+applications"
+        }
+      ]
+    },
+    {
+      "name": "Mr.N.Aravindhraj",
+      "citations": 126,
+      "h_index": 7,
+      "i10_index": 5,
+      "profile_link": "https://scholar.google.com/citations?user=FSn3mJUAAAAJ",
+      "articles": [
+        {
+          "title": "Automatic classification for preventing duplication of online multimedia data in secure cloud infrastructure",
+          "link": "https://scholar.google.com/scholar?q=Automatic+classification+for+preventing+duplication+of+online+multimedia+data+in+secure+cloud+infrastructure"
+        },
+        {
+          "title": "Bio-medical analysis of breast cancer risk detection based on deep neural network",
+          "link": "https://scholar.google.com/scholar?q=Bio-medical+analysis+of+breast+cancer+risk+detection+based+on+deep+neural+network"
+        },
+        {
+          "title": "Arduino based visible light communications between two devices using li-fi technology",
+          "link": "https://scholar.google.com/scholar?q=Arduino+based+visible+light+communications+between+two+devices+using+li-fi+technology"
+        },
+        {
+          "title": "Forest fire detection using computer vision",
+          "link": "https://scholar.google.com/scholar?q=Forest+fire+detection+using+computer+vision"
+        },
+        {
+          "title": "HDFS Based Parallel and Scalable Pattern Mining Using Clouds for Incremental Data",
+          "link": "https://scholar.google.com/scholar?q=HDFS+Based+Parallel+and+Scalable+Pattern+Mining+Using+Clouds+for+Incremental+Data"
+        }
+      ]
+    },
+    {
+      "name": "Dr.N.Sasipriyaa",
+      "citations": 118,
+      "h_index": 8,
+      "i10_index": 4,
+      "profile_link": "https://scholar.google.com/citations?user=DfAhC-IAAAAJ",
+      "articles": [
+        {
+          "title": "Heuristically repopulated Bayesian ant colony optimization for treating missing values in large databases",
+          "link": "https://scholar.google.com/scholar?q=Heuristically+repopulated+Bayesian+ant+colony+optimization+for+treating+missing+values+in+large+databases"
+        },
+        {
+          "title": "Review on brain tumor segmentation methods using convolution neural network for MRI images",
+          "link": "https://scholar.google.com/scholar?q=Review+on+brain+tumor+segmentation+methods+using+convolution+neural+network+for+MRI+images"
+        },
+        {
+          "title": "SFGDO: Smart flower gradient descent optimization enabled generative adversarial network for recognition of Tamil handwritten character",
+          "link": "https://scholar.google.com/scholar?q=SFGDO%3A+Smart+flower+gradient+descent+optimization+enabled+generative+adversarial+network+for+recognition+of+Tamil+handwritten+character"
+        },
+        {
+          "title": "Recognition of Tamil handwritten characters using Scrabble GAN",
+          "link": "https://scholar.google.com/scholar?q=Recognition+of+Tamil+handwritten+characters+using+Scrabble+GAN"
+        },
+        {
+          "title": "Recognizing handwritten offline Tamil character by using cGAN & CNN",
+          "link": "https://scholar.google.com/scholar?q=Recognizing+handwritten+offline+Tamil+character+by+using+cGAN+%26+CNN"
+        }
+      ]
+    },
+    {
+      "name": "Ms.P.Kalaivani",
+      "citations": 88,
+      "h_index": 5,
+      "i10_index": 4,
+      "profile_link": "https://scholar.google.com/citations?user=lJNT6DUAAAAJ",
+      "articles": [
+        {
+          "title": "An automated billing system in shopping malls using bascart",
+          "link": "https://scholar.google.com/scholar?q=An+automated+billing+system+in+shopping+malls+using+bascart"
+        },
+        {
+          "title": "Oral cancer detection using deep learning",
+          "link": "https://scholar.google.com/scholar?q=Oral+cancer+detection+using+deep+learning"
+        },
+        {
+          "title": "Deep learning with multi-class classification for detection of COVID-19 and pneumonia",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning+with+multi-class+classification+for+detection+of+COVID-19+and+pneumonia"
+        },
+        {
+          "title": "Bone fracture detection based on deep learning techniques",
+          "link": "https://scholar.google.com/scholar?q=Bone+fracture+detection+based+on+deep+learning+techniques"
+        },
+        {
+          "title": "Security in medical images using enhanced visual secret sharing scheme",
+          "link": "https://scholar.google.com/scholar?q=Security+in+medical+images+using+enhanced+visual+secret+sharing+scheme"
+        }
+      ]
+    },
+    {
+      "name": "Mr.M.Muthuraja",
+      "citations": 87,
+      "h_index": 4,
+      "i10_index": 1,
+      "profile_link": "https://scholar.google.com/citations?user=PVJraYEAAAAJ",
+      "articles": [
+        {
+          "title": "Network Intrusion Detection System for Feature Extraction Based on Machine Learning Techniques",
+          "link": "https://scholar.google.com/scholar?q=Network+Intrusion+Detection+System+for+Feature+Extraction+Based+on+Machine+Learning+Techniques"
+        },
+        {
+          "title": "Diabetic foot ulcer detection using deep learning approaches",
+          "link": "https://scholar.google.com/scholar?q=Diabetic+foot+ulcer+detection+using+deep+learning+approaches"
+        },
+        {
+          "title": "An explainable approach for detecting potato leaf disease using ensemble model",
+          "link": "https://scholar.google.com/scholar?q=An+explainable+approach+for+detecting+potato+leaf+disease+using+ensemble+model"
+        },
+        {
+          "title": "Suicidal ideation prediction using machine learning",
+          "link": "https://scholar.google.com/scholar?q=Suicidal+ideation+prediction+using+machine+learning"
+        },
+        {
+          "title": "A Survey on Classification of Diabetic Foot Ulcer Using Machine Learning Algorithms",
+          "link": "https://scholar.google.com/scholar?q=A+Survey+on+Classification+of+Diabetic+Foot+Ulcer+Using+Machine+Learning+Algorithms"
+        }
+      ]
+    },
+    {
+      "name": "Dr.P.Yuvarani",
+      "citations": 87,
+      "h_index": 7,
+      "i10_index": 1,
+      "profile_link": "https://scholar.google.com/citations?user=vH7wVqIAAAAJ",
+      "articles": [
+        {
+          "title": "Green Synthesis and characterization of silver nanomaterials using leaf extract of prosopis cineraria for antibacterial and anti-cancer applications",
+          "link": "https://scholar.google.com/scholar?q=Green+Synthesis+and+characterization+of+silver+nanomaterials+using+leaf+extract+of+prosopis+cineraria+for+antibacterial+and+anti-cancer+applications"
+        },
+        {
+          "title": "Investigation on Solar‐Powered Electrocoagulation (SPEC) for the Treatment of Domestic Wastewater (DWW)",
+          "link": "https://scholar.google.com/scholar?q=Investigation+on+Solar%E2%80%90Powered+Electrocoagulation+%28SPEC%29+for+the+Treatment+of+Domestic+Wastewater+%28DWW%29"
+        },
+        {
+          "title": "Draft fan control using fuzzy logic in thermal power plant",
+          "link": "https://scholar.google.com/scholar?q=Draft+fan+control+using+fuzzy+logic+in+thermal+power+plant"
+        },
+        {
+          "title": "Design and Power Analysis of Vedic Multiplier",
+          "link": "https://scholar.google.com/scholar?q=Design+and+Power+Analysis+of+Vedic+Multiplier"
+        },
+        {
+          "title": "Implementation of Distributed Operating System for industrial process automation using embedded technology",
+          "link": "https://scholar.google.com/scholar?q=Implementation+of+Distributed+Operating+System+for+industrial+process+automation+using+embedded+technology"
+        }
+      ]
+    },
+    {
+      "name": "Ms.S.Kavitha",
+      "citations": 66,
+      "h_index": 3,
+      "i10_index": 3,
+      "profile_link": "https://scholar.google.com/citations?user=fmTqGE0AAAAJ",
+      "articles": [
+        {
+          "title": "A comprehensive review of analyzing the chest X-ray images to detect COVID-19 infections using deep learning techniques: K. Subramaniam et al.",
+          "link": "https://scholar.google.com/scholar?q=A+comprehensive+review+of+analyzing+the+chest+X-ray+images+to+detect+COVID-19+infections+using+deep+learning+techniques%3A+K.+Subramaniam+et+al."
+        },
+        {
+          "title": "An extensive review on deep learning and machine learning intervention in prediction and classification of types of aneurysms",
+          "link": "https://scholar.google.com/scholar?q=An+extensive+review+on+deep+learning+and+machine+learning+intervention+in+prediction+and+classification+of+types+of+aneurysms"
+        },
+        {
+          "title": "Fake news detection using machine learning",
+          "link": "https://scholar.google.com/scholar?q=Fake+news+detection+using+machine+learning"
+        },
+        {
+          "title": "Skin disease detection and diagnosis using deep neural network",
+          "link": "https://scholar.google.com/scholar?q=Skin+disease+detection+and+diagnosis+using+deep+neural+network"
+        },
+        {
+          "title": "Classification of lung diseases using transfer learning with chest x-ray images",
+          "link": "https://scholar.google.com/scholar?q=Classification+of+lung+diseases+using+transfer+learning+with+chest+x-ray+images"
+        }
+      ]
+    },
+    {
+      "name": "Ms.T.Sathya",
+      "citations": 60,
+      "h_index": 5,
+      "i10_index": 2,
+      "profile_link": "https://scholar.google.com/citations?user=LXMFnJYAAAAJ",
+      "articles": [
+        {
+          "title": "Industrial Internet of things-based solar photo voltaic cell waste management in next generation industries",
+          "link": "https://scholar.google.com/scholar?q=Industrial+Internet+of+things-based+solar+photo+voltaic+cell+waste+management+in+next+generation+industries"
+        },
+        {
+          "title": "IoMT-Based Smart Diagnostic/Therapeutic Kit for Pandemic Patients",
+          "link": "https://scholar.google.com/scholar?q=IoMT-Based+Smart+Diagnostic%2FTherapeutic+Kit+for+Pandemic+Patients"
+        },
+        {
+          "title": "Remote Human’s health and activities monitoring using wearable sensor-based system—a review",
+          "link": "https://scholar.google.com/scholar?q=Remote+Human%E2%80%99s+health+and+activities+monitoring+using+wearable+sensor-based+system%E2%80%94a+review"
+        },
+        {
+          "title": "A roadmap towards robust IoT-enabled cyber-physical systems in cyber industrial 4.0",
+          "link": "https://scholar.google.com/scholar?q=A+roadmap+towards+robust+IoT-enabled+cyber-physical+systems+in+cyber+industrial+4.0"
+        },
+        {
+          "title": "Blockchain Based Edge Information Systems Frameworks for Industrial IoT: A Novel Approach",
+          "link": "https://scholar.google.com/scholar?q=Blockchain+Based+Edge+Information+Systems+Frameworks+for+Industrial+IoT%3A+A+Novel+Approach"
+        }
+      ]
+    },
+    {
+      "name": "Ms.J.Gowthami",
+      "citations": 55,
+      "h_index": 4,
+      "i10_index": 2,
+      "profile_link": "https://scholar.google.com/citations?user=7A0QoVkAAAAJ",
+      "articles": [
+        {
+          "title": "Energy and environmental analysis of a solar evacuated tube heat pipe integrated thermoelectric generator using IoT",
+          "link": "https://scholar.google.com/scholar?q=Energy+and+environmental+analysis+of+a+solar+evacuated+tube+heat+pipe+integrated+thermoelectric+generator+using+IoT"
+        },
+        {
+          "title": "Secure Three-Factor Remote user Authentication for E-Governance of Smart Cities",
+          "link": "https://scholar.google.com/scholar?q=Secure+Three-Factor+Remote+user+Authentication+for+E-Governance+of+Smart+Cities"
+        },
+        {
+          "title": "On Swarm Intelligence and Its Integration With Internet of Things: Challenges and Applications",
+          "link": "https://scholar.google.com/scholar?q=On+Swarm+Intelligence+and+Its+Integration+With+Internet+of+Things%3A+Challenges+and+Applications"
+        },
+        {
+          "title": "Blockchain and explainable-AI integrated system for Polycystic Ovary Syndrome (PCOS) detection",
+          "link": "https://scholar.google.com/scholar?q=Blockchain+and+explainable-AI+integrated+system+for+Polycystic+Ovary+Syndrome+%28PCOS%29+detection"
+        },
+        {
+          "title": "Deep learning based audio description of visual content by enhancing accessibility for the visually impaired",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning+based+audio+description+of+visual+content+by+enhancing+accessibility+for+the+visually+impaired"
+        }
+      ]
+    },
+    {
+      "name": "Ms.S.Ramya",
+      "citations": 31,
+      "h_index": 4,
+      "i10_index": 1,
+      "profile_link": "https://scholar.google.com/citations?user=qZ7SL9AAAAAJ",
+      "articles": [
+        {
+          "title": "Machine learning approach on time series for PV‐solar Energy",
+          "link": "https://scholar.google.com/scholar?q=Machine+learning+approach+on+time+series+for+PV%E2%80%90solar+Energy"
+        },
+        {
+          "title": "Recurrent Neural Network based Models for Word Prediction",
+          "link": "https://scholar.google.com/scholar?q=Recurrent+Neural+Network+based+Models+for+Word+Prediction"
+        },
+        {
+          "title": "Comprehensive earth system analysis for advancing community resilience: integrating remote sensing with hybrid GAN-RNN techniques",
+          "link": "https://scholar.google.com/scholar?q=Comprehensive+earth+system+analysis+for+advancing+community+resilience%3A+integrating+remote+sensing+with+hybrid+GAN-RNN+techniques"
+        },
+        {
+          "title": "Machine learning model used efficiently to manage the smart grid and renewable energy",
+          "link": "https://scholar.google.com/scholar?q=Machine+learning+model+used+efficiently+to+manage+the+smart+grid+and+renewable+energy"
+        },
+        {
+          "title": "Cutting-Edge Climate Analysis: Combining MLP-GRU and Remote Sensing Technologies",
+          "link": "https://scholar.google.com/scholar?q=Cutting-Edge+Climate+Analysis%3A+Combining+MLP-GRU+and+Remote+Sensing+Technologies"
+        }
+      ]
+    },
+    {
+      "name": "Ms.T.E.Ramya",
+      "citations": 31,
+      "h_index": 3,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=gaKYmVYAAAAJ",
+      "articles": [
+        {
+          "title": "Ensemble based intrusion detection system for IoT device",
+          "link": "https://scholar.google.com/scholar?q=Ensemble+based+intrusion+detection+system+for+IoT+device"
+        },
+        {
+          "title": "Deep learning based hybrid transformer model for stock price prediction",
+          "link": "https://scholar.google.com/scholar?q=Deep+learning+based+hybrid+transformer+model+for+stock+price+prediction"
+        },
+        {
+          "title": "Harnessing artificial neural network model to anticipate housing market rates",
+          "link": "https://scholar.google.com/scholar?q=Harnessing+artificial+neural+network+model+to+anticipate+housing+market+rates"
+        },
+        {
+          "title": "Text Summarization using Latent Semantic Analysis",
+          "link": "https://scholar.google.com/scholar?q=Text+Summarization+using+Latent+Semantic+Analysis"
+        },
+        {
+          "title": "Improved Student Performance Prediction Using Stacking Ensemble Learning with Gradient Boosting, Random Forest, and XGBoost",
+          "link": "https://scholar.google.com/scholar?q=Improved+Student+Performance+Prediction+Using+Stacking+Ensemble+Learning+with+Gradient+Boosting%2C+Random+Forest%2C+and+XGBoost"
+        }
+      ]
+    },
+    {
+      "name": "Mr.B.Bizu",
+      "citations": 28,
+      "h_index": 3,
+      "i10_index": 1,
+      "profile_link": "https://scholar.google.com/citations?user=c0dWiXkAAAAJ",
+      "articles": [
+        {
+          "title": "Future smart grids creation and dimensionality reduction with signal handling on smart grid using targeted projection",
+          "link": "https://scholar.google.com/scholar?q=Future+smart+grids+creation+and+dimensionality+reduction+with+signal+handling+on+smart+grid+using+targeted+projection"
+        },
+        {
+          "title": "Diagnosis of diabetic retinopathy and glaucoma from retinal images using deep convolution neural network",
+          "link": "https://scholar.google.com/scholar?q=Diagnosis+of+diabetic+retinopathy+and+glaucoma+from+retinal+images+using+deep+convolution+neural+network"
+        },
+        {
+          "title": "Analysis of ophthalmic disorders for retinal images using deep learning: a review.",
+          "link": "https://scholar.google.com/scholar?q=Analysis+of+ophthalmic+disorders+for+retinal+images+using+deep+learning%3A+a+review."
+        },
+        {
+          "title": "Deep Learning Based Smart Monitoring of Indoor Stadium Video Surveillance.",
+          "link": "https://scholar.google.com/scholar?q=Deep+Learning+Based+Smart+Monitoring+of+Indoor+Stadium+Video+Surveillance."
+        },
+        {
+          "title": "Convolutional neural network for customer’s opinion on Amazon products",
+          "link": "https://scholar.google.com/scholar?q=Convolutional+neural+network+for+customer%E2%80%99s+opinion+on+Amazon+products"
+        }
+      ]
+    },
+    {
+      "name": "Mr.N.P.Saravanan",
+      "citations": 24,
+      "h_index": 3,
+      "i10_index": 1,
+      "profile_link": "https://scholar.google.com/citations?user=a_DxWC0AAAAJ",
+      "articles": [
+        {
+          "title": "Biologically Inspired QoS Aware Routing Protool to Optimize Lifetime in Sensor networks",
+          "link": "https://scholar.google.com/scholar?q=Biologically+Inspired+QoS+Aware+Routing+Protool+to+Optimize+Lifetime+in+Sensor+networks"
+        },
+        {
+          "title": "PREDICTION OF NEUROLOGICAL DISORDER USING DEEP LEARNING NETWORK",
+          "link": "https://scholar.google.com/scholar?q=PREDICTION+OF+NEUROLOGICAL+DISORDER+USING+DEEP+LEARNING+NETWORK"
+        },
+        {
+          "title": "An efficient Task Scheduling Algorithm using Modified Whale Optimization Algorithm in Cloud Computing",
+          "link": "https://scholar.google.com/scholar?q=An+efficient+Task+Scheduling+Algorithm+using+Modified+Whale+Optimization+Algorithm+in+Cloud+Computing"
+        },
+        {
+          "title": "Convolutional Neural Network for Customer’s Opinion on Amazon Products",
+          "link": "https://scholar.google.com/scholar?q=Convolutional+Neural+Network+for+Customer%E2%80%99s+Opinion+on+Amazon+Products"
+        },
+        {
+          "title": "A Personalized Information Recommendation System for R&D Project Opportunity Finding",
+          "link": "https://scholar.google.com/scholar?q=A+Personalized+Information+Recommendation+System+for+R%26D+Project+Opportunity+Finding"
+        }
+      ]
+    },
+    {
+      "name": "Ms.R.S.Shudapreyaa",
+      "citations": 23,
+      "h_index": 3,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=w0ew9lQAAAAJ",
+      "articles": [
+        {
+          "title": "Detection of Faults in Flying Wireless Sensor Networks Using Adaptive Reinforcement Learning",
+          "link": "https://scholar.google.com/scholar?q=Detection+of+Faults+in+Flying+Wireless+Sensor+Networks+Using+Adaptive+Reinforcement+Learning"
+        },
+        {
+          "title": "IoT and mobile app-based food spoilage alert system",
+          "link": "https://scholar.google.com/scholar?q=IoT+and+mobile+app-based+food+spoilage+alert+system"
+        },
+        {
+          "title": "Addressing Modern Slavery and Child Labor in Supply Chains",
+          "link": "https://scholar.google.com/scholar?q=Addressing+Modern+Slavery+and+Child+Labor+in+Supply+Chains"
+        },
+        {
+          "title": "A Study on Post‐Quantum Blockchain: The Next Innovation for Smarter and Safer Cities",
+          "link": "https://scholar.google.com/scholar?q=A+Study+on+Post%E2%80%90Quantum+Blockchain%3A+The+Next+Innovation+for+Smarter+and+Safer+Cities"
+        },
+        {
+          "title": "Classification of lung diseases using transfer learning with chest x-ray images",
+          "link": "https://scholar.google.com/scholar?q=Classification+of+lung+diseases+using+transfer+learning+with+chest+x-ray+images"
+        }
+      ]
+    },
+    {
+      "name": "Ms.C.Roopa",
+      "citations": 22,
+      "h_index": 3,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=gV2UjLoAAAAJ",
+      "articles": [
+        {
+          "title": "A Deep Learning Model for Intelligent Energy Management",
+          "link": "https://scholar.google.com/scholar?q=A+Deep+Learning+Model+for+Intelligent+Energy+Management"
+        },
+        {
+          "title": "Blockchain based certificate verification using ethereum and smart contract",
+          "link": "https://scholar.google.com/scholar?q=Blockchain+based+certificate+verification+using+ethereum+and+smart+contract"
+        },
+        {
+          "title": "Detection of cervical cancer using Ensemble Approach in Machine Learning",
+          "link": "https://scholar.google.com/scholar?q=Detection+of+cervical+cancer+using+Ensemble+Approach+in+Machine+Learning"
+        },
+        {
+          "title": "Optimizing CNN architecture using whale optimization algorithm for lung cancer detection",
+          "link": "https://scholar.google.com/scholar?q=Optimizing+CNN+architecture+using+whale+optimization+algorithm+for+lung+cancer+detection"
+        },
+        {
+          "title": "Multi-Modal Graph-Aware Transformer with Contrastive Fusion for Brain Tumor Segmentation",
+          "link": "https://scholar.google.com/scholar?q=Multi-Modal+Graph-Aware+Transformer+with+Contrastive+Fusion+for+Brain+Tumor+Segmentation"
+        }
+      ]
+    },
+    {
+      "name": "Mr.V.Manimaran",
+      "citations": 15,
+      "h_index": 3,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=dyN_lioAAAAJ",
+      "articles": [
+        {
+          "title": "Advancements in heart disease classification: Leveraging deep learning techniques for ECG analysis",
+          "link": "https://scholar.google.com/scholar?q=Advancements+in+heart+disease+classification%3A+Leveraging+deep+learning+techniques+for+ECG+analysis"
+        },
+        {
+          "title": "An explainable approach for detecting potato leaf disease using ensemble model",
+          "link": "https://scholar.google.com/scholar?q=An+explainable+approach+for+detecting+potato+leaf+disease+using+ensemble+model"
+        },
+        {
+          "title": "Secure Sharing of Sensitive Data on a Big Data Platform",
+          "link": "https://scholar.google.com/scholar?q=Secure+Sharing+of+Sensitive+Data+on+a+Big+Data+Platform"
+        },
+        {
+          "title": "GPS-based Arrival Time Prediction for Bus Schedules: Enhancing Commuter Experience",
+          "link": "https://scholar.google.com/scholar?q=GPS-based+Arrival+Time+Prediction+for+Bus+Schedules%3A+Enhancing+Commuter+Experience"
+        },
+        {
+          "title": "Enhancing dyslexia detection: a robust machine learning approach",
+          "link": "https://scholar.google.com/scholar?q=Enhancing+dyslexia+detection%3A+a+robust+machine+learning+approach"
+        }
+      ]
+    },
+    {
+      "name": "Ms.K.Suvalakshmi",
+      "citations": 12,
+      "h_index": 2,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=ED4NDLMAAAAJ",
+      "articles": [
+        {
+          "title": "Diagnosis of diabetic retinopathy and glaucoma from retinal images using deep convolution neural network",
+          "link": "https://scholar.google.com/scholar?q=Diagnosis+of+diabetic+retinopathy+and+glaucoma+from+retinal+images+using+deep+convolution+neural+network"
+        },
+        {
+          "title": "Analysis of ophthalmic disorders for retinal images using deep learning: a review.",
+          "link": "https://scholar.google.com/scholar?q=Analysis+of+ophthalmic+disorders+for+retinal+images+using+deep+learning%3A+a+review."
+        },
+        {
+          "title": "Detection of bird and frog species from audio dataset using deep learning",
+          "link": "https://scholar.google.com/scholar?q=Detection+of+bird+and+frog+species+from+audio+dataset+using+deep+learning"
+        },
+        {
+          "title": "Analysis of mixing of pseudo–random number generators with statistical tests",
+          "link": "https://scholar.google.com/scholar?q=Analysis+of+mixing+of+pseudo%E2%80%93random+number+generators+with+statistical+tests"
+        },
+        {
+          "title": "The Amphibian and Reptiles Classification from Camera Trap Images Using Deep Learning",
+          "link": "https://scholar.google.com/scholar?q=The+Amphibian+and+Reptiles+Classification+from+Camera+Trap+Images+Using+Deep+Learning"
+        }
+      ]
+    },
+    {
+      "name": "Mr.T.ArunKumar",
+      "citations": 5,
+      "h_index": 1,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=wslvQBXAJAMC",
+      "articles": [
+        {
+          "title": "Design and Implementation of an Astute Infant Monitoring System Based on YOLO v8 Algorithm",
+          "link": "https://scholar.google.com/scholar?q=Design+and+Implementation+of+an+Astute+Infant+Monitoring+System+Based+on+YOLO+v8+Algorithm"
+        },
+        {
+          "title": "Blockchain-Based Digital Twin for Agricultural Field Management",
+          "link": "https://scholar.google.com/scholar?q=Blockchain-Based+Digital+Twin+for+Agricultural+Field+Management"
+        },
+        {
+          "title": "Raspberry Pi Pico Based Real Time Patient Health Monitoring System",
+          "link": "https://scholar.google.com/scholar?q=Raspberry+Pi+Pico+Based+Real+Time+Patient+Health+Monitoring+System"
+        },
+        {
+          "title": "Assessing the Performance of Machine Learning Algorithms in Fake News Detection",
+          "link": "https://scholar.google.com/scholar?q=Assessing+the+Performance+of+Machine+Learning+Algorithms+in+Fake+News+Detection"
+        },
+        {
+          "title": "Predictive Modeling of Bitcoin Transaction: Daily Analysis",
+          "link": "https://scholar.google.com/scholar?q=Predictive+Modeling+of+Bitcoin+Transaction%3A+Daily+Analysis"
+        }
+      ]
+    },
+    {
+      "name": "Ms.S.Ramana",
+      "citations": 3,
+      "h_index": 1,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=zZQLp_MAAAAJ",
+      "articles": [
+        {
+          "title": "Atmospheric Change on the Geographical Theme Finding Of Different Functions on Human Mobility”",
+          "link": "https://scholar.google.com/scholar?q=Atmospheric+Change+on+the+Geographical+Theme+Finding+Of+Different+Functions+on+Human+Mobility%E2%80%9D"
+        },
+        {
+          "title": "Machine Learning Based Integrative Regression Analysis of High-Dimensional Heterogeneous Data",
+          "link": "https://scholar.google.com/scholar?q=Machine+Learning+Based+Integrative+Regression+Analysis+of+High-Dimensional+Heterogeneous+Data"
+        },
+        {
+          "title": "WIRELESS SENSOR DEVICE FOR ENVIRONMENTAL MONITORING USING IOT",
+          "link": "https://scholar.google.com/scholar?q=WIRELESS+SENSOR+DEVICE+FOR+ENVIRONMENTAL+MONITORING+USING+IOT"
+        },
+        {
+          "title": "Intrusion Spotting of Variance Network Traffic using Modified Random Forest Algorithm",
+          "link": "https://scholar.google.com/scholar?q=Intrusion+Spotting+of+Variance+Network+Traffic+using+Modified+Random+Forest+Algorithm"
+        },
+        {
+          "title": "A Web Spam based Identification and Detection for Fake Reviews in Social Network",
+          "link": "https://scholar.google.com/scholar?q=A+Web+Spam+based+Identification+and+Detection+for+Fake+Reviews+in+Social+Network"
+        }
+      ]
+    },
+    {
+      "name": "Ms.K.Venu",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "https://scholar.google.com/citations?user=RSugAAAAJ",
+      "articles": []
+    },
+    {
+      "name": "Ms.A.Kiruthika",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.S.Mohanapriya",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.S.Gayathri",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Mr.K.Suresh Kumar",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.M.Kannukkiniyal",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.K.T.Mohana Priya",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.S.Kalpana",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    },
+    {
+      "name": "Ms.P.Jeevitha",
+      "citations": 0,
+      "h_index": 0,
+      "i10_index": 0,
+      "profile_link": "",
+      "articles": []
+    }
+  ]
+}

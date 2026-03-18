@@ -1,2 +1,5 @@
-scholarly
-pandas
+scholarly==1.7.11
+wrapt>=1.16.0
+deprecated>=1.2.14
+pandas>=2.0.0
+requests

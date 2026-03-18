@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSE Department Research Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="desktop">
+
+    <div class="win95-window main-app-window">
+      <div class="win95-title-bar">
+        <div class="win95-title-bar-text">
+          <span style="margin-right: 5px;"></span><b>Department Of Computer Science And Engineering</b>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div style="width: 2px; height: 20px; background: var(--win-bg-dark); margin: 0 5px;"></div>
+        <div class="search-wrap" style="flex: 1; display: flex; gap: 5px; align-items: center;">
+          <span style="font-weight: bold;">Search:</span>
+          <input type="search" id="searchInput" class="win95-input" style="flex: 1;"
+            placeholder="Search by name, ISSN, or DOI..." />
+          <select id="filterSelect" class="win95-select">
+            <option value="all">All Faculty</option>
+            <option value="active">With Profile</option>
+          </select>
+          <select id="quartileSelect" class="win95-select">
+            <option value="all">All Quartiles</option>
+            <option value="q1">Q1 Journals</option>
+            <option value="q2">Q2 Journals</option>
+            <option value="q3">Q3 Journals</option>
+            <option value="q4">Q4 Journals</option>
+          </select>
+          <select id="sciSelect" class="win95-select">
+            <option value="all">Record Type</option>
+            <option value="sci">SCI Only</option>
+            <option value="non-sci">Non-SCI</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="app-content">
+        <!-- Hero Stats -->
+        <div class="stats-panel">
+          <div class="stat-box" id="statTotalCitations">
+            <div class="stat-label">TOTAL CITATIONS</div>
+            <div class="stat-value" id="totalCitationsVal">0</div>
+          </div>
+          <div class="stat-box" id="statFacultyCount">
+            <div class="stat-label">FACULTY MEMBERS</div>
+            <div class="stat-value" id="facultyCountVal">0</div>
+          </div>
+          <div class="stat-box" id="statActiveProfiles">
+            <div class="stat-label">ACTIVE PROFILES</div>
+            <div class="stat-value" id="activeProfilesVal">0</div>
+          </div>
+          <div class="stat-box" id="statPublications">
+            <div class="stat-label">PUBLICATIONS</div>
+            <div class="stat-value" id="publicationsVal">0</div>
+          </div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div id="loadingState">Loading Research Data...</div>
+
+        <!-- Error state -->
+        <div id="errorState" class="hidden" style="text-align: center; padding: 20px;">
+          <div style="font-size: 24px; margin-bottom: 10px;">⚠️ System Error</div>
+          <p id="errorMessage">Could not load research database.</p>
+          <button class="win95-button" onclick="loadData()">Retry</button>
+        </div>
+
+        <!-- Empty / no-results state -->
+        <div id="emptyState" class="hidden" style="text-align: center; padding: 20px;">
+          <div style="font-size: 24px;">🔍</div>
+          <h3>No records found.</h3>
+        </div>
+
+        <!-- Faculty grid -->
+        <div id="facultyGrid" class="faculty-grid"></div>
+      </div>
+
+      <div class="win95-status-bar">
+        <div class="status-field" id="resultsCount">0 objects found</div>
+        <div class="status-field fixed" id="lastUpdated">Fetching...</div>
+        <div class="status-field fixed"><i>Department Of Computer Science And Engineering</i></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
